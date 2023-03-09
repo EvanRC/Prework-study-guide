@@ -4,11 +4,6 @@
 
 This Webpage was built by myself to better learn the foundations of coding. As well as maybe help other students in the future. It contains notes on HTML, CSS, GIT, and JavaScript.
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
 
 ## Installation
 
